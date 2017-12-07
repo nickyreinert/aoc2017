@@ -1,0 +1,12 @@
+html  {
+
+	font-family: monospace;
+}
+
+
+textarea {
+
+	width: 90%;
+	margin: 0 auto;
+	font-family: monospace;
+}
